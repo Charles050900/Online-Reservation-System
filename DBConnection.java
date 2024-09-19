@@ -9,8 +9,8 @@ public class DBConnection {
         sc = new Scanner(System.in);
 
         String url = "jdbc:mysql://localhost:3306/";
-        String username = "****";
-        String password = "****";
+        String username = "root";
+        String password = "1234";
         try {
             con = DriverManager.getConnection(url, username, password);
         } catch (SQLException e) {
