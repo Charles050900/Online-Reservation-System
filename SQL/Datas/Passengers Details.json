@@ -1,0 +1,8 @@
+[{"pnrnumber":"PNR101", "passengername":"Charles", "passengerage":23, "phno":1236547890, "gender":"Male"},
+ {"pnrnumber":"PNR101", "passengername":"Ramya", "passengerage":30, "phno":9685741203, "gender":"Female"},
+ {"pnrnumber":"PNR101", "passengername":"Raj", "passengerage":45, "phno":3201456987, "gender":"Male"},
+ {"pnrnumber":"PNR101", "passengername":"Krishna", "passengerage":37, "phno":3201456789, "gender":"Male"},
+ {"pnrnumber":"PNR101", "passengername":"Kavitha", "passengerage":33, "phno":9630215487, "gender":"Female"},
+ {"pnrnumber":"PNR102", "passengername":"Ram", "passengerage":29, "phno":3201456987, "gender":"Male"},
+ {"pnrnumber":"PNR102", "passengername":"Kumar", "passengerage":28, "phno":213654789, "gender":"Male"},
+ {"pnrnumber":"PNR102", "passengername":"Abdul", "passengerage":27, "phno":3210546987, "gender":"Male"}]

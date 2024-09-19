@@ -1,0 +1,8 @@
+[{"trainno":12606, "trainname":"Pallavan Superfast Express", "departuretime":"06:55:00", "departure":"Tiruchchirappalli Junction", "arrival":"Chennai Egmore", "trainstatus":"Runs Daily"},
+ {"trainno":20666, "trainname":"Chennai Egmore Vande Bharat Express", "departuretime":"09:55:00", "departure":"Tiruchchirappalli Junction", "arrival":"Chennai Egmore", "trainstatus":"S M - W T F S"},
+ {"trainno":22672, "trainname":"Chennai Egmore Tejas Express", "departuretime":"17:05:00", "departure":"Tiruchchirappalli Junction", "arrival":"Chennai Egmore", "trainstatus":"S M T W - F S"},
+ {"trainno":16160, "trainname":"Chennai Egmore Express", "departuretime":"22:05:00", "departure":"Tiruchchirappalli Junction", "arrival":"Chennai Egmore", "trainstatus":"Cancelled"},
+ {"trainno":12654, "trainname":"Rock Fort SF Express", "departuretime":"22:50:00", "departure":"Tiruchchirappalli Junction", "arrival":"Chennai Egmore", "trainstatus":"Runs Daily"},
+ {"trainno":22671, "trainname":"Madurai Tejas Express", "departuretime":"06:00:00", "departure":"Chennai Egmore", "arrival":"Madurai Junction", "trainstatus":"S M T W - F S"},
+ {"trainno":22657, "trainname":"Nagercoil Jn TBM NCJ SF EXP", "departuretime":"19:00:00", "departure":"Chennai Egmore", "arrival":"Madurai Junction", "trainstatus":"S M - W - - -"},
+ {"trainno":12637, "trainname":"Pandian SF Express", "departuretime":"21:40:00", "departure":"Chennai Egmore", "arrival":"Madurai Junction", "trainstatus":"Runs Daily"}]
