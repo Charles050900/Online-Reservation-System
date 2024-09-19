@@ -3,16 +3,16 @@ import java.util.Scanner;
 
 public class DBConnection {
     private Connection con;
-    private Scanner sc; 
+    private Scanner sc;
 
     public void connect() {
-        sc = new Scanner(System.in); 
-        
+        sc = new Scanner(System.in);
+
         String url = "jdbc:mysql://localhost:3306/";
-        String username = "root";
-        String password = "1234";
+        String username = "***";
+        String password = "****";
         try {
-            con = DriverManager.getConnection(url, username, password); 
+            con = DriverManager.getConnection(url, username, password);
         } catch (SQLException e) {
             System.out.println("Connection failed: Check your username and password.");
         }
@@ -23,7 +23,7 @@ public class DBConnection {
     }
 
     public Scanner getScanner() {
-        return sc; 
+        return sc;
     }
 
     public void closeConnection() {
@@ -36,7 +36,7 @@ public class DBConnection {
             System.out.println("Failed to close the connection.");
         } finally {
             if (sc != null) {
-                sc.close(); 
+                sc.close();
             }
         }
     }
